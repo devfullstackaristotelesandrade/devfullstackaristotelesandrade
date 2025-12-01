@@ -1,9 +1,8 @@
 <h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Aristoteles Andrade, Full Stack Web Developer :computer:<br>
+ <abc><img width="1584" height="396" alt="Teal and Black Modern Programmer New LinkedIn Banner" src="https://github.com/user-attachments/assets/f3f65173-15ce-4b10-90b2-3c464acc273b" />
+
+<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -22,7 +21,7 @@
 
 - :computer: I'm a Fullstack Developer, currently exploring Web Space
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead  xxxxxxxxx
+- :man_technologist: Former Project Lead  Recode pro
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
